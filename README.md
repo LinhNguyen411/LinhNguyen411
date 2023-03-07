@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LinhNguyen411
 - 👀 I’m interested in developer
-- 🌱 I’m currently learning javascript, html, css
-- 💞️ I’m looking to collaborate on google
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate with google
 - 📫 How to reach me: nguyentrunglinh411@gmail.com
 
 <!---
