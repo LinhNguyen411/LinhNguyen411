@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LinhNguyen411
 - 👀 I’m interested in developer
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate with google
 - 📫 How to reach me: nguyentrunglinh411@gmail.com
 
 <!---
