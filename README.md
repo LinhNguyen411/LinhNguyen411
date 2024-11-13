@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LinhNguyen411
 - 👀 I’m interested in developer
 - 🌱 I’m currently learning python
-- 📫 How to reach me: nguyentrunglinh411@gmail.com
+- 📫 How to reach me: linhngn411@gmail.com
 
 <!---
 LinhNguyen411/LinhNguyen411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
