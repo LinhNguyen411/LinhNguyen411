@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @LinhNguyen411
-- 👀 I’m interested in developer
-- 🌱 I’m currently learning python
-- 📫 How to reach me: linhngn411@gmail.com
+# 👋 Hi, I’m @LinhNguyen411
 
-<!---
-LinhNguyen411/LinhNguyen411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![LinhNguyen411's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinhNguyen411&hide=contribs,prs)
